@@ -6,6 +6,7 @@ body {
   margin-right: 50px;
 }
 
+
 @media (min-width: 1250px) {
   body {
     margin-left: 300px;
@@ -75,7 +76,4 @@ a:active {
 }
 .classificacao_indicativa {
   font-size: small;
-}
-
-.link_cinemas_bsb {
 }
